@@ -1,5 +1,7 @@
 # Documentation
 
+For Typescript coders, please see [bluejsx TS doc](./TS.md) after finish reading this page.
+
 ## Basic
 
 The usage of VanillaJSX is simple!
